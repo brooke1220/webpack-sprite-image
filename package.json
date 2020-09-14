@@ -1,0 +1,19 @@
+{
+  "name": "webpack-sprite-image",
+  "version": "1.0.0",
+  "description": "雪碧图",
+  "main": "lib/webpack-sprite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brooke1220/webpack-sprite-image.git"
+  },
+  "devDependencies": {
+    "fs-extra": "^9.0.1",
+    "webpack-spritesmith": "^1.1.0"
+  },
+  "author": "brooke <overbob@yeah.net>",
+  "license": "ISC"
+}
